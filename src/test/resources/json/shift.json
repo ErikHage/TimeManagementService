@@ -1,0 +1,7 @@
+{  
+   "shiftId":%d,
+   "employeeId":"%s",
+   "timeIn":%s,
+   "timeOut":%s,
+   "details":%s
+}
